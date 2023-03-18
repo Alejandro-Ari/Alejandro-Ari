@@ -14,3 +14,24 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+```Python
+## Esto es algo breve en Python
+
+acerca_de_mi = {
+    gatos: True,
+    perros: True,
+    country: "Mexico City",
+    age = 27;
+    main_protocolos: [
+        "BGP", "OSPF", "EIGRP", "HSRP","ARP", "STP", "RSPT"
+    ],
+    lenguajes: [
+        "Python",
+        "Mas_proximamente" 
+    ]
+}
+
+```
